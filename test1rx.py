@@ -1,4 +1,5 @@
-python
+import sys
+sys.path.append('../..')
 import pyion
 
 # Create a proxy to node 2 and attach to it
